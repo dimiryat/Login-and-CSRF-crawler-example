@@ -16,7 +16,7 @@ print(csrf)
 
 form_data = {
     'email' : 'dennis.dlin2@gmail.com',
-    'password' : 'rTULL1F3yelp',
+    'password' : 'XXXXXXXX',
     'csrftok' : csrf
     }
 
